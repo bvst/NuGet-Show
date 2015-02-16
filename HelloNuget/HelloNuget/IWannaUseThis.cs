@@ -2,6 +2,6 @@
 {
     public static class IWannaUseThis
     {
-        public static string SoUsefull = "Impossibru";
+        public static string SoUsefull = "Possibru";
     }
 }
