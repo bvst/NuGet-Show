@@ -1,7 +1,7 @@
 ﻿namespace HelloNuget
 {
-    public class IWannaUseThis
+    public static class IWannaUseThis
     {
-        public string SoUsefull { get { return "Impossibru";  } }
+        public static string SoUsefull = "Impossibru";
     }
 }
